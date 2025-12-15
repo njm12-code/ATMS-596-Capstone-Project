@@ -59,7 +59,7 @@ This dataset includes start/end latitude and longitude coordinates, pre-F/F/EF-s
 - **Source:** Upper Midwest Environmental Sciences Center (UMESC)  
 - **Dataset:** Land–Water Classification Polygons  
 - **Access:**  
-  https://www.umesc.usgs.gov/data_library/geospatial_data/land_water_classification.html
+  https://www.umesc.usgs.gov/data_library/aqa_feat_bath_str/land_water.html
 
 These shapefiles are used to construct a high-resolution Mississippi River polygon and derive a 10 km buffer zone for spatial classification.
 
